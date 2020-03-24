@@ -21,20 +21,19 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #4028EB!important;
+	background-color: #0c5460!important;
 	background-image: url("img/otis-redding.png");
 }
 
 .text-primary {
-	color: #4028EB!important;
-}
+	color: #0c5460!important;
 
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
 
 a {
-	color: #4028EB;
+	color: #0c5460!important;
 }
 
 a:active, a:focus, a:hover {
