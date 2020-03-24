@@ -6,7 +6,9 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
 }
-
+a {
+	color: #0c5460!important;
+}
 .subheading {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2rem;
@@ -27,9 +29,7 @@ h1 .text-primary {
 .text-primary {
 	color: #0c5460!important;
 
-.a {
-	color: #0c5460!important;
-}
+
 	
 	
 	
